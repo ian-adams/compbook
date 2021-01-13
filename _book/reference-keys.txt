@@ -355,3 +355,4 @@ link-between-public-opinion-and-public-policy
 judicial-decision-making-i
 judicial-decision-making-ii
 summary
+strategies
