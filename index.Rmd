@@ -8,7 +8,7 @@ author:
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [book.bib, packages.bib, american-politics.bib, public-admin.bib]
 nocite: '@*'
 biblio-style: apalike
 link-citations: yes
