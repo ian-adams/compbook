@@ -1,0 +1,47 @@
+--- 
+title: "Example Comprehensive Exams for Public Administration and American Politics"
+author: "Ian T. Adams"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "These are sample questions and answers for Ph.D. students preparing for their comprehensive exams."
+---
+
+# Structure of the Book
+
+I have arranged two large chapters, one for each of the major subfields I undertook doctoral exams in. Fist, in the [Public Adminstration Pre-Write chapter](#pa-pre), I provide the many possible questions you might encounter in Public Administration exams. In [the next chapter](#ap-pre), I do the same for American Politics. In both these early chapters, I am providing you with examples of full comprehensive pre-writes. In the next two chapters, I provide the actual comprehensive exam answers for full exams, [one for Public Administration](#pa-real) and one for [American politics](#ap-real). The [closing chapter](#summary) wraps up with some general information and strategy going into your own exams.
+
+## A Gentle Warning
+
+Because this book is easily available on the internet, I strongly suggest you do not plagiarize from it. Synthesize it, gently massage it, and use whatever you can make useful to your own views on the relevant academic fields. Don't tempt the TurnItIn monster - it won't end well!
+
+Further, remember that every Ph.D. program has its own flavor. My program at the University of Utah, for example, is relatively less quantitatively focused than some other programs, and places a tremendous amount of focus on developing thoughtful scholarship on equity in public policy and administration. Your program **will be** different, and you should consider those differences as you read through the supplied answers.
+
+## Copywrite {#copywrite}
+
+Copyright © 2021 by Ian T. Adams
+
+All rights reserved. This book or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the author except for the use of brief quotations in a book review.
+
+Printed in the United States of America
+
+First Printing, 2021
+
+ISBN **GET IF NECESSARY**
+
+Adams Research & Analysis; Salt Lake City, Utah
+
+Author information and contact available at https://ianadamsresearch.com
+
+
+## Software Information and Session Capture
+
+This book was written in [Rstudio](https://rstudio.com/) using the [`bookdown` package](https://bookdown.org/). The following session information is provided:
+
+```{r remedy001}
+sessionInfo()
+
+```

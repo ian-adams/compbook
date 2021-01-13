@@ -1,2 +1,1 @@
-# compbook
-Comp prep in bookdown
+This book was written using R Markdown and the `bookdown` [package](https://github.com/rstudio/bookdown). Many thanks to Yihui Xie for the tireless work in developing the best writing software - for *free* - available.
