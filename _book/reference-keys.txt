@@ -4,7 +4,10 @@ copywrite
 software-information-and-session-capture
 intro
 acknowledgments
-dedication
+about-the-authors
+ian-t.-adams
+scott-m.-mourtgos
+samuel-r.-baty
 pa-pre
 bureaucracy
 example-questions

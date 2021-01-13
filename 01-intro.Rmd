@@ -8,6 +8,24 @@ It's been said that if you have to teach something twice, write it down. In that
 
 My own path through comprehensive exams, like every one of my academic efforts, was only made possible because of the mentorship and love of those around me. My dissertation chair, Dr. Sharon Mastracci, is ultimately responsible for giving me a shot at an academic world I didn't even realize existed. Dr. James Curry always left his office door open for me to drop in and learn more about the profession. Dr. Steve Nelson insisted I'd be a happier Ph.D. student than a law school student - he was right as usual. Scott Mourtgos has proven to be the most exciting and productive partner in ~~crime~~ criminal justice that I could have hoped for.
 
-## Dedication
+## About the Authors
 
-Time slips, men fall. Academia is but a sliver of life, and for the rest I rely on the love and support of my partner Annette. Therefore this book is dedicated to you Annette. I'd die for you, writing a dedication is too easy. 
+### Ian T. Adams
+
+Ian Adams is a Ph.D. candidate in Political Science at the University of Utah, where he also completed a Masters of Public Administration. His research interests include body-worn cameras and policing. Ian is a 2018 American Society of Public Administration Founders' Fellow, and a 2020/2021 doctoral fellow of the Academy of Criminal Justice Sciences. Personal website (and current CV) available at https://ianadamsresearch.com
+
+#### Dedication {-}
+
+Time slips, men fall. Academia is but a sliver of life, and for the rest I rely on the love and support of my partner Annette. Therefore this book is dedicated to you Annette. I'd die for you, writing a dedication is too easy.
+
+### Scott M. Mourtgos
+
+Scott M. Mourtgos is a Ph.D. candidate in the Department of Political Science at the University of
+Utah. His research focuses on policing and criminal justice policy. Scott is a 2020 National
+Institute of Justice LEADS Scholar. More information on his research is available at
+https://smourtgos.netlify.app/.
+
+### Samuel R. Baty
+
+Samuel R. Baty is a Ph.D. candidate in the Department of Political Science at the University of
+Utah, and also has a Bachelor's of Science in Mathematics from the University of California Los Angeles. His research focuses on nuclear security and public administration. 

@@ -1,18 +1,26 @@
 --- 
-title: "Example Comprehensive Exams for Public Administration and American Politics"
-author: "Ian T. Adams"
+title: "Example Comprehensive Exams"
+subtitle: "for Ph.D. students in Public Administration and American Politics"
+author: 
+- "Ian T. Adams"
+- "Scott M. Mourtgos"
+- "Samuel R. Baty"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
+nocite: '@*'
 biblio-style: apalike
 link-citations: yes
-description: "These are sample questions and answers for Ph.D. students preparing for their comprehensive exams."
+description: "Sample questions and answers for Ph.D. students preparing for their comprehensive exams."
+github-repo: ian-adams/compbook
+favicon: images/favicon.ico
+cover-image: images/cover.jpg
 ---
 
 # Structure of the Book
 
-I have arranged two large chapters, one for each of the major subfields I undertook doctoral exams in. Fist, in the [Public Adminstration Pre-Write chapter](#pa-pre), I provide the many possible questions you might encounter in Public Administration exams. In [the next chapter](#ap-pre), I do the same for American Politics. In both these early chapters, I am providing you with examples of full comprehensive pre-writes. In the next two chapters, I provide the actual comprehensive exam answers for full exams, [one for Public Administration](#pa-real) and one for [American politics](#ap-real). The [closing chapter](#summary) wraps up with some general information and strategy going into your own exams.
+I have arranged two large chapters, one for each of the major subfields covered in the book. First, in the [Public Adminstration Pre-Write chapter](#pa-pre), we provide many of the possible questions you might encounter in Public Administration exams. In [the next chapter](#ap-pre), we do the same for American Politics. In both these early chapters, we are providing you with examples of full comprehensive pre-writes. In the next two chapters, we provide the actual comprehensive exam answers for full exams, [one for Public Administration](#pa-real) and one for [American politics](#ap-real). The [closing chapter](#summary) wraps up with some general information and strategy going into your own exams.
 
 ## A Gentle Warning
 
@@ -22,7 +30,7 @@ Further, remember that every Ph.D. program has its own flavor. My program at the
 
 ## Copywrite {#copywrite}
 
-Copyright © 2021 by Ian T. Adams
+Copyright © 2021 by the authors
 
 All rights reserved. This book or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the author except for the use of brief quotations in a book review.
 
@@ -32,9 +40,7 @@ First Printing, 2021
 
 ISBN **GET IF NECESSARY**
 
-Adams Research & Analysis; Salt Lake City, Utah
-
-Author information and contact available at https://ianadamsresearch.com
+Corresponding author information and contact available at https://ianadamsresearch.com
 
 
 ## Software Information and Session Capture

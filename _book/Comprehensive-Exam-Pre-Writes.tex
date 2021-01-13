@@ -37,8 +37,8 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={Example Comprehensive Exams for Public Administration and American Politics},
-  pdfauthor={Ian T. Adams},
+  pdftitle={Example Comprehensive Exams},
+  pdfauthor={Ian T. Adams; Scott M. Mourtgos; Samuel R. Baty},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
@@ -119,8 +119,15 @@
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
-\title{Example Comprehensive Exams for Public Administration and American Politics}
-\author{Ian T. Adams}
+\title{Example Comprehensive Exams}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{for Ph.D.~students in Public Administration and American Politics}
+\author{Ian T. Adams \and Scott M. Mourtgos \and Samuel R. Baty}
 \date{2021-01-13}
 
 \begin{document}
@@ -133,7 +140,7 @@
 \hypertarget{structure-of-the-book}{%
 \chapter{Structure of the Book}\label{structure-of-the-book}}
 
-I have arranged two large chapters, one for each of the major subfields I undertook doctoral exams in. Fist, in the \protect\hyperlink{pa-pre}{Public Adminstration Pre-Write chapter}, I provide the many possible questions you might encounter in Public Administration exams. In \protect\hyperlink{ap-pre}{the next chapter}, I do the same for American Politics. In both these early chapters, I am providing you with examples of full comprehensive pre-writes. In the next two chapters, I provide the actual comprehensive exam answers for full exams, \protect\hyperlink{pa-real}{one for Public Administration} and one for \protect\hyperlink{ap-real}{American politics}. The \protect\hyperlink{summary}{closing chapter} wraps up with some general information and strategy going into your own exams.
+I have arranged two large chapters, one for each of the major subfields covered in the book. First, in the \protect\hyperlink{pa-pre}{Public Adminstration Pre-Write chapter}, we provide many of the possible questions you might encounter in Public Administration exams. In \protect\hyperlink{ap-pre}{the next chapter}, we do the same for American Politics. In both these early chapters, we are providing you with examples of full comprehensive pre-writes. In the next two chapters, we provide the actual comprehensive exam answers for full exams, \protect\hyperlink{pa-real}{one for Public Administration} and one for \protect\hyperlink{ap-real}{American politics}. The \protect\hyperlink{summary}{closing chapter} wraps up with some general information and strategy going into your own exams.
 
 \hypertarget{a-gentle-warning}{%
 \section{A Gentle Warning}\label{a-gentle-warning}}
@@ -145,7 +152,7 @@ Further, remember that every Ph.D.~program has its own flavor. My program at the
 \hypertarget{copywrite}{%
 \section{Copywrite}\label{copywrite}}
 
-Copyright © 2021 by Ian T. Adams
+Copyright © 2021 by the authors
 
 All rights reserved. This book or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the author except for the use of brief quotations in a book review.
 
@@ -155,9 +162,7 @@ First Printing, 2021
 
 ISBN \textbf{GET IF NECESSARY}
 
-Adams Research \& Analysis; Salt Lake City, Utah
-
-Author information and contact available at \url{https://ianadamsresearch.com}
+Corresponding author information and contact available at \url{https://ianadamsresearch.com}
 
 \hypertarget{software-information-and-session-capture}{%
 \section{Software Information and Session Capture}\label{software-information-and-session-capture}}
@@ -206,10 +211,33 @@ It's been said that if you have to teach something twice, write it down. In that
 
 My own path through comprehensive exams, like every one of my academic efforts, was only made possible because of the mentorship and love of those around me. My dissertation chair, Dr.~Sharon Mastracci, is ultimately responsible for giving me a shot at an academic world I didn't even realize existed. Dr.~James Curry always left his office door open for me to drop in and learn more about the profession. Dr.~Steve Nelson insisted I'd be a happier Ph.D.~student than a law school student - he was right as usual. Scott Mourtgos has proven to be the most exciting and productive partner in \sout{crime} criminal justice that I could have hoped for.
 
+\hypertarget{about-the-authors}{%
+\section{About the Authors}\label{about-the-authors}}
+
+\hypertarget{ian-t.-adams}{%
+\subsection{Ian T. Adams}\label{ian-t.-adams}}
+
+Ian Adams is a Ph.D.~candidate in Political Science at the University of Utah, where he also completed a Masters of Public Administration. His research interests include body-worn cameras and policing. Ian is a 2018 American Society of Public Administration Founders' Fellow, and a 2020/2021 doctoral fellow of the Academy of Criminal Justice Sciences. Personal website (and current CV) available at \url{https://ianadamsresearch.com}
+
 \hypertarget{dedication}{%
-\section{Dedication}\label{dedication}}
+\subsubsection*{Dedication}\label{dedication}}
+\addcontentsline{toc}{subsubsection}{Dedication}
 
 Time slips, men fall. Academia is but a sliver of life, and for the rest I rely on the love and support of my partner Annette. Therefore this book is dedicated to you Annette. I'd die for you, writing a dedication is too easy.
+
+\hypertarget{scott-m.-mourtgos}{%
+\subsection{Scott M. Mourtgos}\label{scott-m.-mourtgos}}
+
+Scott M. Mourtgos is a Ph.D.~candidate in the Department of Political Science at the University of
+Utah. His research focuses on policing and criminal justice policy. Scott is a 2020 National
+Institute of Justice LEADS Scholar. More information on his research is available at
+\url{https://smourtgos.netlify.app/}.
+
+\hypertarget{samuel-r.-baty}{%
+\subsection{Samuel R. Baty}\label{samuel-r.-baty}}
+
+Samuel R. Baty is a Ph.D.~candidate in the Department of Political Science at the University of
+Utah, and also has a Bachelor's of Science in Mathematics from the University of California Los Angeles. His research focuses on nuclear security and public administration.
 
 \hypertarget{pa-pre}{%
 \chapter{Public Administration: Pre-Written Examples}\label{pa-pre}}
